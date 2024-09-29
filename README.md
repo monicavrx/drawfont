@@ -1,6 +1,6 @@
 # drawfont
 
-![image images/drawFontLp.png](images/drawFontLp.png)
+![image images/drawFontLp.png](images/drawfontLp.png)
 
 Website: https://drawfont.com
 
