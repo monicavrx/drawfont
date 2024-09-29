@@ -1,6 +1,6 @@
 # DrawFont for Unity
 
-![image images/demoUnity.gif](images/demoUnity.gif)
+![image images/demoUnity.gif](../../images/demoUnity.gif)
 
 ## Installation
 

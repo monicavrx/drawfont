@@ -1,6 +1,6 @@
 # DrawFont for Blender
 
-![image images/demoBlender.gif](images/demoBlender.gif)
+![image images/demoBlender.gif](../../images/demoBlender.gif)
 
 
 ## Installation
