@@ -4,11 +4,6 @@
 
 Website: https://drawfont.com
 
-## Demo
-
-![image images/demoDrawing.gif](images/demoDrawing.gif)
-![image images/demoWriting.gif](images/demoWriting.gif)
-
 ## Overview
 
 English:
@@ -42,14 +37,13 @@ JSON 형식의 DrawFont 파일만 있다면 어디서든 해당 폰트를 불러
 라이선스는 앞으로도 계속 MIT 라이선스로 유지될 것을 보장합니다.
 인력이 부족하므로 적극적인 기여를 환영합니다.
 
-
 ## Compatible Software
 
 - Unity Editor
 - Blender
 - Web (React)
 
-### Coming Soon
+## Coming Soon
 
 - Canva
 - Unreal Engine
@@ -63,3 +57,27 @@ JSON 형식의 DrawFont 파일만 있다면 어디서든 해당 폰트를 불러
 - Substance Painter
 - ZBrush
 - etc...
+
+
+## Roadmap
+
+- [ ] Support story progression dialogs
+- [ ] Add particle effects using ancient-style characters
+- [ ] Add various types of Playgrounds
+- [ ] Publish a dedicated npm package for usage
+- [ ] etc...
+
+## Demo
+
+### Web Drawing
+![image images/demoDrawing.gif](images/demoDrawing.gif)
+
+### Web Writing
+![image images/demoWriting.gif](images/demoWriting.gif)
+
+### Unity
+![image images/demoUnity.gif](images/demoUnity.gif)
+
+### Blender
+![image images/demoBlender.gif](images/demoBlender.gif)
+
