@@ -37,6 +37,10 @@ JSON 형식의 DrawFont 파일만 있다면 어디서든 해당 폰트를 불러
 라이선스는 앞으로도 계속 MIT 라이선스로 유지될 것을 보장합니다.
 인력이 부족하므로 적극적인 기여를 환영합니다.
 
+## LICENSE
+
+MIT forever
+
 ## Compatible Software
 
 - Unity Editor
