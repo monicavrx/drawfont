@@ -4,6 +4,8 @@
 
 Website: https://drawfont.com
 
+Awesome: https://github.com/monicavrx/awesome-drawfont
+
 ## Overview
 
 English:
